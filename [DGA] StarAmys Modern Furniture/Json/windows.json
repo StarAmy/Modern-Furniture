@@ -1,0 +1,90 @@
+[
+	{
+		"$ItemType": "Furniture",
+		"ID": "Modern Window",
+		"Type": "Window",
+		"Configurations": [
+			{
+				"Texture": "assets/window.png:0",
+				"NightTexture": "assets/window.png:1",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2,
+				"Flipped": false,
+			},
+			{
+				"Texture": "assets/window.png:2",
+				"NightTexture": "assets/window.png:3",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2,
+				"Flipped": false,
+			},
+			{
+				"Texture": "assets/window.png:4",
+				"NightTexture": "assets/window.png:5",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2,
+				"Flipped": false,
+			},
+			{
+				"Texture": "assets/window.png:6",
+				"NightTexture": "assets/window.png:7",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2,
+				"Flipped": false,
+			},
+			{
+				"Texture": "assets/window.png:8",
+				"NightTexture": "assets/window.png:9",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2,
+				"Flipped": false,
+			},
+			{
+				"Texture": "assets/window.png:10",
+				"NightTexture": "assets/window.png:11",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2,
+				"Flipped": false,
+			},
+			{
+				"Texture": "assets/window.png:12",
+				"NightTexture": "assets/window.png:13",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2,
+				"Flipped": false,
+			},
+			{
+				"Texture": "assets/window.png:14",
+				"NightTexture": "assets/window.png:15",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2,
+				"Flipped": false,
+			},
+			{
+				"Texture": "assets/window.png:16",
+				"NightTexture": "assets/window.png:17",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2,
+				"Flipped": false,
+			},
+			{
+				"Texture": "assets/window.png:18",
+				"NightTexture": "assets/window.png:19",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2,
+				"Flipped": false,
+			}
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.modernfurniture/Modern Window"
+		}
+	}
+]

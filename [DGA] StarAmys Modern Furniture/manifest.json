@@ -1,0 +1,13 @@
+﻿{
+	"Name": "StarAmys Modern Furniture",
+	"Author": "StarAmy",
+	"Version": "1.0.0",
+	"Description": "Adds some rugs, windows, and wall decor through DGA.",
+	"UniqueID": "staramy.modernfurniture",
+	"MinimumApiVersion": "3.13.0",
+	"ContentPackFor": {
+		"UniqueID": "spacechase0.DynamicGameAssets"
+	},
+	"DGA.FormatVersion": 2,
+	"DGA.ConditionsFormatVersion": "1.23.0"
+}

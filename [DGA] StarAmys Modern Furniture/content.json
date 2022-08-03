@@ -1,0 +1,14 @@
+[
+   {
+      "$ItemType":"ContentIndex",
+      "FilePath":"Json/wall.json"
+   },
+   {
+      "$ItemType":"ContentIndex",
+      "FilePath":"Json/windows.json"
+   },
+   {
+      "$ItemType":"ContentIndex",
+      "FilePath":"Json/rugs.json"
+   },
+]
