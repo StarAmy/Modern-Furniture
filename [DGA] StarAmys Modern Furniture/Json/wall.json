@@ -86,7 +86,7 @@
 	{
 		"$ItemType": "Furniture",
 		"ID": "Wall Candle Decoration",
-		"Type": "Painting",
+		"Type": "Sconce",
 		"Configurations": [
 			{
 				"Texture": "assets/wall_decorations.png:6",
@@ -165,6 +165,29 @@
 		{
 			"Type": "DGAItem",
 			"Value": "staramy.modernfurniture/Wall Flower Art Decoration"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Garden Mirror",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/mirror.png",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 3
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 400,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.modernfurniture/Garden Mirror"
 		}
 	},
 ]

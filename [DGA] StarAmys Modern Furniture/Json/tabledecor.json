@@ -1,0 +1,35 @@
+[
+		{
+		"$ItemType": "Furniture",
+		"ID": "Table Candle Decoration",
+		"Type": "Lamp",
+		"Configurations": [
+			{
+				"Texture": "assets/table_decorations.png:0",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/table_decorations.png:1",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/table_decorations.png:2",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			}
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.modernfurniture/Table Candle Decoration"
+		}
+	},
+]
